@@ -35,31 +35,30 @@ uvicorn bathymetry.app:app --reload
 ## Project layout
 
 ```
-bathymetry/              Python package
-  app.py                 FastAPI app: page, /api/* endpoints
-  config.py              paths, bounds and defaults
-  i18n.py                English/Dutch UI strings
-  dive_sites.py          load/save the dive site list
-  site_cache.py          on-disk terrain cache for dive sites
+bathymetry/                Python package
+  app.py                   FastAPI app: page, /api/* endpoints
+  config.py                paths, bounds and defaults
+  i18n.py                  English/Dutch UI strings
+  dive_sites.py            load/save the dive site list
+  site_cache.py            on-disk terrain cache for dive sites
   terrain/
-    sources.py           remote AHN and vaargeul tile locations
-    grid.py              fetch, merge, crop and gap-fill the elevation grid
-    colors.py            shared terrain colours
-    errors.py            PipelineError (user-facing failures)
-    render2d.py          2D PNG map
-    scene3d.py           downsampled mesh for the 3D viewer
-    pipeline.py          render_terrain / generate_terrain entry points
+    sources.py             remote AHN and vaargeul tile locations
+    grid.py                fetch, merge, crop and gap-fill the elevation grid
+    colors.py              shared terrain colours
+    errors.py              PipelineError (user-facing failures)
+    render2d.py            2D PNG map
+    scene3d.py             downsampled mesh for the 3D viewer
+    pipeline.py            render_terrain / generate_terrain entry points
 data/
   dive_sites_zeeland.json  Zeeland dive sites from duikersgids, with coverage
   kaartbladindex_dtm.json  AHN DTM tile index (PDOK)
 static/
-  app.html               page shell (meta tags, script and style links)
-  app.css                styles
-  app.js                 React UI: map, settings, progress, results
-  scene3d.js             Three.js 3D terrain viewer
-  og-image.png           social media preview image
-docs/                    README screenshots
-scripts/                 maintenance scripts (see below)
+  app.html                 page shell (meta tags, script and style links)
+  app.css                  styles
+  app.js                   React UI: map, settings, progress, results
+  scene3d.js               Three.js 3D terrain viewer
+docs/                      README screenshots
+scripts/                   maintenance scripts (see below)
 ```
 
 The front end has no build step: React, Leaflet, Three.js and htm are loaded
