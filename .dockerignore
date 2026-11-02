@@ -1,0 +1,9 @@
+.git/
+.github/
+venv/
+.venv/
+__pycache__/
+.mypy_cache/
+site_cache/
+scripts/
+*.tif

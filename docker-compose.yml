@@ -1,0 +1,12 @@
+services:
+  bathymetry:
+    build: .
+    ports:
+      - "8000:8000"
+    restart: unless-stopped
+    volumes:
+      # Keeps the terrain cache across container rebuilds.
+      - site_cache:/app/site_cache
+
+volumes:
+  site_cache:

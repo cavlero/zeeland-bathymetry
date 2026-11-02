@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>3D Zeeland Dive Maps</title>
+<meta name="description" content="Explore the terrain around ~127 Zeeland dive sites in 3D — seabed, channels, dikes and intertidal flats, merged from Dutch government elevation data (AHN LiDAR + Rijkswaterstaat soundings) into an interactive model you can rotate and zoom." />
+<meta name="robots" content="index, follow" />
+
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="Bathymetry Explorer" />
+<meta property="og:title" content="Bathymetry Explorer — 3D Terrain for Zeeland Dive Sites" />
+<meta property="og:description" content="Pick a Zeeland dive site (or any spot on the map) and get an interactive 3D terrain model of the seabed and coastline, built from AHN LiDAR and Rijkswaterstaat sounding data." />
+<meta property="og:locale" content="en_US" />
+<meta property="og:locale:alternate" content="nl_NL" />
+<meta property="og:image:width" content="1300" />
+<meta property="og:image:height" content="899" />
+<meta property="og:image:alt" content="3D terrain model of a Zeeland dive site, showing the seabed and coastline above and below water" />
+
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Bathymetry Explorer — 3D Terrain for Zeeland Dive Sites" />
+<meta name="twitter:description" content="Interactive 3D terrain (above and below water) for ~127 Zeeland dive sites, built from Dutch government elevation data." />
+
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Crect width='100' height='100' rx='20' fill='%23060a13'/%3E%3Cpath d='M0 55 Q25 40 50 55 T100 55 V100 H0 Z' fill='%2322d3ee' opacity='0.55'/%3E%3Cpath d='M0 70 Q25 58 50 70 T100 70 V100 H0 Z' fill='%236366f1' opacity='0.65'/%3E%3C/svg%3E" />
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebApplication",
+  "name": "Bathymetry Explorer",
+  "description": "Explore the terrain around Zeeland dive sites in 3D, above and below water, merged from Dutch government elevation data.",
+  "applicationCategory": "MapApplication",
+  "inLanguage": ["en", "nl"],
+  "isAccessibleForFree": true,
+  "operatingSystem": "Any (web browser)",
+  "about": {
+    "@type": "Place",
+    "name": "Zeeland",
+    "address": {
+      "@type": "PostalAddress",
+      "addressRegion": "Zeeland",
+      "addressCountry": "NL"
+    }
+  }
+}
+</script>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+<link rel="stylesheet" href="/static/app.css">
+</head>
+<body>
+<div id="root"></div>
+<noscript>
+  <main style="max-width:640px;margin:3rem auto;padding:0 1.5rem;font-family:system-ui,sans-serif;line-height:1.6;">
+    <h1>Bathymetry Explorer - 3D Terrain for Zeeland Dive Sites</h1>
+    <p>
+      Explore the terrain around ~125 Zeeland dive sites, both on land and underwater.
+      Pick a spot on the map and get a 2D elevation map plus an interactive
+      3D model, built by merging elevation data from Rijkswaterstaat.
+    </p>
+    <p>This app requires JavaScript to run. Please enable it to use the interactive map and 3D viewer.</p>
+  </main>
+</noscript>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="https://unpkg.com/react@18/umd/react.production.min.js" crossorigin></script>
+<script src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js" crossorigin></script>
+<script type="importmap">
+{
+  "imports": {
+    "three": "https://unpkg.com/three@0.160.0/build/three.module.js",
+    "three/addons/": "https://unpkg.com/three@0.160.0/examples/jsm/"
+  }
+}
+</script>
+<script type="module" src="/static/app.js"></script>
+
+</body>
+</html>

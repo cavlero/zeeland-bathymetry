@@ -1,0 +1,877 @@
+[
+ {
+  "name": "'t Dolfijntje",
+  "lat": 51.7408,
+  "lon": 3.82629,
+  "href": "https://www.duikersgids.nl/duikstekken/t-dolfijntje",
+  "coverage_pct": 84.7
+ },
+ {
+  "name": "Aardappeldal",
+  "lat": 51.51271,
+  "lon": 3.44905,
+  "href": "https://www.duikersgids.nl/duikstekken/aardappeldal",
+  "coverage_pct": 99.8
+ },
+ {
+  "name": "Anemonenveld",
+  "lat": 51.52378,
+  "lon": 3.99015,
+  "href": "https://www.duikersgids.nl/duikstekken/anemonenveld",
+  "coverage_pct": 63.2
+ },
+ {
+  "name": "Ankerplaats",
+  "lat": 51.6828,
+  "lon": 4.04848,
+  "href": "https://www.duikersgids.nl/duikstekken/ankerplaats",
+  "coverage_pct": 94.8
+ },
+ {
+  "name": "Anna Jacobapolder",
+  "lat": 51.64266,
+  "lon": 4.10047,
+  "href": "https://www.duikersgids.nl/duikstekken/anna-jacobapolder",
+  "coverage_pct": 97.2
+ },
+ {
+  "name": "Arendshoofd",
+  "lat": 51.74011,
+  "lon": 3.89889,
+  "href": "https://www.duikersgids.nl/duikstekken/arendshoofd",
+  "coverage_pct": 87.5
+ },
+ {
+  "name": "Bergse Diepsluis Hangcultuur",
+  "lat": 51.51813,
+  "lon": 4.17015,
+  "href": "https://www.duikersgids.nl/duikstekken/bergse-diepsluis-hangcultuur",
+  "coverage_pct": 94.4
+ },
+ {
+  "name": "Bergse Diepsluis Oesterdam",
+  "lat": 51.5167,
+  "lon": 4.17271,
+  "href": "https://www.duikersgids.nl/duikstekken/bergse-diepsluis-oesterdam",
+  "coverage_pct": 88.7
+ },
+ {
+  "name": "Bergse Diepsluis Overkant",
+  "lat": 51.51312,
+  "lon": 4.17248,
+  "href": "https://www.duikersgids.nl/duikstekken/bergse-diepsluis-overkant",
+  "coverage_pct": 93.0
+ },
+ {
+  "name": "Bergse Diepsluis Strand",
+  "lat": 51.5148,
+  "lon": 4.17654,
+  "href": "https://www.duikersgids.nl/duikstekken/bergse-diepsluis-strand",
+  "coverage_pct": 91.4
+ },
+ {
+  "name": "Blinde Dam",
+  "lat": 51.63372,
+  "lon": 4.07267,
+  "href": "https://www.duikersgids.nl/duikstekken/blinde-dam",
+  "coverage_pct": 93.0
+ },
+ {
+  "name": "Bommenede Polder",
+  "lat": 51.73399,
+  "lon": 3.95654,
+  "href": "https://www.duikersgids.nl/duikstekken/bommenede-polder",
+  "coverage_pct": 96.1
+ },
+ {
+  "name": "Bommenede Werkhaven Oost",
+  "lat": 51.73117,
+  "lon": 3.97642,
+  "href": "https://www.duikersgids.nl/duikstekken/bommenede-werkhaven-oost",
+  "coverage_pct": 83.3
+ },
+ {
+  "name": "Bommenede Werkhaven West",
+  "lat": 51.73452,
+  "lon": 3.97102,
+  "href": "https://www.duikersgids.nl/duikstekken/bommenede-werkhaven-west",
+  "coverage_pct": 95.7
+ },
+ {
+  "name": "Brouwerssluis",
+  "lat": 51.74606,
+  "lon": 3.82401,
+  "href": "https://www.duikersgids.nl/duikstekken/brouwerssluis",
+  "coverage_pct": 76.6
+ },
+ {
+  "name": "Buitencentrum Veere",
+  "lat": 51.53445,
+  "lon": 3.68018,
+  "href": "https://www.duikersgids.nl/duikstekken/buitencentrum-veere",
+  "coverage_pct": 91.9
+ },
+ {
+  "name": "Burghsluis Oostbout",
+  "lat": 51.67354,
+  "lon": 3.75745,
+  "href": "https://www.duikersgids.nl/duikstekken/burghsluis-oostbout",
+  "coverage_pct": 90.7
+ },
+ {
+  "name": "Burghsluis West",
+  "lat": 51.67291,
+  "lon": 3.75545,
+  "href": "https://www.duikersgids.nl/duikstekken/burghsluis-west",
+  "coverage_pct": 92.9
+ },
+ {
+  "name": "Christoffelnol",
+  "lat": 51.73854,
+  "lon": 3.90184,
+  "href": "https://www.duikersgids.nl/duikstekken/christoffelnol",
+  "coverage_pct": 92.4
+ },
+ {
+  "name": "Colijnsplaat Oostnol",
+  "lat": 51.60576,
+  "lon": 3.83886,
+  "href": "https://www.duikersgids.nl/duikstekken/colijnsplaat-oostnol",
+  "coverage_pct": 98.1
+ },
+ {
+  "name": "De Broezel",
+  "lat": 51.64294,
+  "lon": 4.08533,
+  "href": "https://www.duikersgids.nl/duikstekken/de-broezel",
+  "coverage_pct": 87.4
+ },
+ {
+  "name": "De Muur",
+  "lat": 51.7404,
+  "lon": 3.86691,
+  "href": "https://www.duikersgids.nl/duikstekken/de-muur",
+  "coverage_pct": 71.5
+ },
+ {
+  "name": "De Schone Waardin",
+  "lat": 51.4415,
+  "lon": 3.62488,
+  "href": "https://www.duikersgids.nl/duikstekken/de-schone-waardin",
+  "coverage_pct": 86.9
+ },
+ {
+  "name": "De Stelhoeve",
+  "lat": 51.52525,
+  "lon": 3.98147,
+  "href": "https://www.duikersgids.nl/duikstekken/de-stelhoeve",
+  "coverage_pct": 67.3
+ },
+ {
+  "name": "De Tetjes",
+  "lat": 51.52798,
+  "lon": 3.96928,
+  "href": "https://www.duikersgids.nl/duikstekken/de-tetjes",
+  "coverage_pct": 97.2
+ },
+ {
+  "name": "De Val",
+  "lat": 51.62815,
+  "lon": 3.92446,
+  "href": "https://www.duikersgids.nl/duikstekken/de-val",
+  "coverage_pct": 80.1
+ },
+ {
+  "name": "De Zoutman",
+  "lat": 51.4444,
+  "lon": 3.64139,
+  "href": "https://www.duikersgids.nl/duikstekken/de-zoutman",
+  "coverage_pct": 97.7
+ },
+ {
+  "name": "Den Osse Haven",
+  "lat": 51.744908436860946,
+  "lon": 3.8866850300214097,
+  "href": "https://www.duikersgids.nl/duikstekken/den-osse-haven",
+  "coverage_pct": 94.2
+ },
+ {
+  "name": "Den Osse Nieuwe Kerkweg",
+  "lat": 51.74271,
+  "lon": 3.87965,
+  "href": "https://www.duikersgids.nl/duikstekken/den-osse-nieuwe-kerkweg",
+  "coverage_pct": 94.9
+ },
+ {
+  "name": "Dickys Place",
+  "lat": 51.52462,
+  "lon": 4.11159,
+  "href": "https://www.duikersgids.nl/duikstekken/dickys-place",
+  "coverage_pct": 66.9
+ },
+ {
+  "name": "Dijkmagazijn",
+  "lat": 51.68023,
+  "lon": 3.83487,
+  "href": "https://www.duikersgids.nl/duikstekken/dijkmagazijn",
+  "coverage_pct": 82.4
+ },
+ {
+  "name": "Dijkval",
+  "lat": 51.68709,
+  "lon": 3.78531,
+  "href": "https://www.duikersgids.nl/duikstekken/dijkval",
+  "coverage_pct": 97.3
+ },
+ {
+  "name": "Dishoekstrand",
+  "lat": 51.4691,
+  "lon": 3.51547,
+  "href": "https://www.duikersgids.nl/duikstekken/dishoekstrand",
+  "coverage_pct": 85.4
+ },
+ {
+  "name": "Donny's Beach",
+  "lat": 51.64924,
+  "lon": 4.17516,
+  "href": "https://www.duikersgids.nl/duikstekken/donnys-beach",
+  "coverage_pct": 75.4
+ },
+ {
+  "name": "Dreischor Frans Kokrif",
+  "lat": 51.71100322922338,
+  "lon": 3.994997688462915,
+  "href": "https://www.duikersgids.nl/duikstekken/dreischor-frans-kokrif",
+  "coverage_pct": 96.4
+ },
+ {
+  "name": "Dreischor Gemaal",
+  "lat": 51.70786,
+  "lon": 4.00016,
+  "href": "https://www.duikersgids.nl/duikstekken/dreischor-gemaal",
+  "coverage_pct": 97.3
+ },
+ {
+  "name": "Dreischor Loswal",
+  "lat": 51.69534,
+  "lon": 4.01219,
+  "href": "https://www.duikersgids.nl/duikstekken/dreischor-loswal",
+  "coverage_pct": 93.4
+ },
+ {
+  "name": "Dreischor Loswal Muurtje",
+  "lat": 51.69708,
+  "lon": 4.01142,
+  "href": "https://www.duikersgids.nl/duikstekken/dreischor-loswal-muurtje",
+  "coverage_pct": 98.8
+ },
+ {
+  "name": "Flauwers Heerenkeet",
+  "lat": 51.67626,
+  "lon": 3.84896,
+  "href": "https://www.duikersgids.nl/duikstekken/flauwers-heerenkeet",
+  "coverage_pct": 89.9
+ },
+ {
+  "name": "Flauwers West",
+  "lat": 51.67708,
+  "lon": 3.84674,
+  "href": "https://www.duikersgids.nl/duikstekken/flauwers-west",
+  "coverage_pct": 79.1
+ },
+ {
+  "name": "Fritsberg",
+  "lat": 51.5142,
+  "lon": 4.08982,
+  "href": "https://www.duikersgids.nl/duikstekken/fritsberg",
+  "coverage_pct": 100.0
+ },
+ {
+  "name": "Galjoen Zonder Poen",
+  "lat": 51.5239,
+  "lon": 3.98902,
+  "href": "https://www.duikersgids.nl/duikstekken/galjoen-zonder-poen",
+  "coverage_pct": 59.8
+ },
+ {
+  "name": "Geersdijk",
+  "lat": 51.55496,
+  "lon": 3.76089,
+  "href": "https://www.duikersgids.nl/duikstekken/geersdijk",
+  "coverage_pct": 93.9
+ },
+ {
+  "name": "Geersdijk Oost",
+  "lat": 51.55464,
+  "lon": 3.76547,
+  "href": "https://www.duikersgids.nl/duikstekken/geersdijk-oost",
+  "coverage_pct": 89.7
+ },
+ {
+  "name": "Goese Sas",
+  "lat": 51.54006,
+  "lon": 3.92924,
+  "href": "https://www.duikersgids.nl/duikstekken/goese-sas",
+  "coverage_pct": 87.8
+ },
+ {
+  "name": "Goese Sas Oude Havendam",
+  "lat": 51.53984,
+  "lon": 3.93119,
+  "href": "https://www.duikersgids.nl/duikstekken/goese-sas-oude-havendam",
+  "coverage_pct": 91.7
+ },
+ {
+  "name": "Gorishoek De Blokken",
+  "lat": 51.52863,
+  "lon": 4.07242,
+  "href": "https://www.duikersgids.nl/duikstekken/gorishoek-de-blokken",
+  "coverage_pct": 98.6
+ },
+ {
+  "name": "Gorishoek De Punt",
+  "lat": 51.52539,
+  "lon": 4.07666,
+  "href": "https://www.duikersgids.nl/duikstekken/gorishoek-de-punt",
+  "coverage_pct": 99.9
+ },
+ {
+  "name": "Haven Middelplaat",
+  "lat": 51.74871,
+  "lon": 3.83698,
+  "href": "https://www.duikersgids.nl/duikstekken/haven-middelplaat",
+  "coverage_pct": 98.1
+ },
+ {
+  "name": "Havenhoofd West",
+  "lat": 51.63368,
+  "lon": 3.88895,
+  "href": "https://www.duikersgids.nl/duikstekken/havenhoofd-west-1375",
+  "coverage_pct": 94.9
+ },
+ {
+  "name": "Hoogeweg",
+  "lat": 51.52419,
+  "lon": 3.9878,
+  "href": "https://www.duikersgids.nl/duikstekken/hoogeweg",
+  "coverage_pct": 55.4
+ },
+ {
+  "name": "Katshaven Noord",
+  "lat": 51.57404,
+  "lon": 3.88798,
+  "href": "https://www.duikersgids.nl/duikstekken/katshaven-noord",
+  "coverage_pct": 78.1
+ },
+ {
+  "name": "Katshaven-zuid",
+  "lat": 51.57238,
+  "lon": 3.8921,
+  "href": "https://www.duikersgids.nl/duikstekken/katshaven-zuid",
+  "coverage_pct": 82.6
+ },
+ {
+  "name": "Katshoek",
+  "lat": 51.56341,
+  "lon": 3.89956,
+  "href": "https://www.duikersgids.nl/duikstekken/katshoek",
+  "coverage_pct": 99.7
+ },
+ {
+  "name": "Kattendijke Parking",
+  "lat": 51.52893,
+  "lon": 3.96504,
+  "href": "https://www.duikersgids.nl/duikstekken/kattendijke-parking",
+  "coverage_pct": 97.8
+ },
+ {
+  "name": "Kattendijke Trap",
+  "lat": 51.52926,
+  "lon": 3.95845,
+  "href": "https://www.duikersgids.nl/duikstekken/kattendijke-trap",
+  "coverage_pct": 97.5
+ },
+ {
+  "name": "Kijkuitpolder",
+  "lat": 51.73295,
+  "lon": 3.94526,
+  "href": "https://www.duikersgids.nl/duikstekken/kijkuitpolder",
+  "coverage_pct": 90.7
+ },
+ {
+  "name": "Kistersnol",
+  "lat": 51.65705392685856,
+  "lon": 3.8808330513348284,
+  "href": "https://www.duikersgids.nl/duikstekken/kistersnol",
+  "coverage_pct": 83.8
+ },
+ {
+  "name": "Kleine Stelle",
+  "lat": 51.52459,
+  "lon": 3.98452,
+  "href": "https://www.duikersgids.nl/duikstekken/kleine-stelle",
+  "coverage_pct": 54.8
+ },
+ {
+  "name": "Koepeltje",
+  "lat": 51.74007,
+  "lon": 3.83044,
+  "href": "https://www.duikersgids.nl/duikstekken/koepeltje",
+  "coverage_pct": 84.7
+ },
+ {
+  "name": "Koepeltje Oost",
+  "lat": 51.73978,
+  "lon": 3.83292,
+  "href": "https://www.duikersgids.nl/duikstekken/koepeltje-oost",
+  "coverage_pct": 92.9
+ },
+ {
+  "name": "Koningsheim",
+  "lat": 51.60549,
+  "lon": 3.80786,
+  "href": "https://www.duikersgids.nl/duikstekken/koningsheim",
+  "coverage_pct": 88.9
+ },
+ {
+  "name": "Kortgeense Nol",
+  "lat": 51.55015,
+  "lon": 3.84521,
+  "href": "https://www.duikersgids.nl/duikstekken/kortgeense-nol",
+  "coverage_pct": 98.0
+ },
+ {
+  "name": "Kulkenol",
+  "lat": 51.62957,
+  "lon": 3.89724,
+  "href": "https://www.duikersgids.nl/duikstekken/kulkenol",
+  "coverage_pct": 99.3
+ },
+ {
+  "name": "Lange Pier",
+  "lat": 51.56642,
+  "lon": 3.89484,
+  "href": "https://www.duikersgids.nl/duikstekken/lange-pier",
+  "coverage_pct": 99.1
+ },
+ {
+  "name": "Le Serpent",
+  "lat": 51.74088,
+  "lon": 3.84265,
+  "href": "https://www.duikersgids.nl/duikstekken/le-serpent",
+  "coverage_pct": 95.7
+ },
+ {
+  "name": "Levensstrijd",
+  "lat": 51.64188,
+  "lon": 3.8906,
+  "href": "https://www.duikersgids.nl/duikstekken/levensstrijd",
+  "coverage_pct": 90.1
+ },
+ {
+  "name": "Lokkersnol",
+  "lat": 51.64823,
+  "lon": 3.88572,
+  "href": "https://www.duikersgids.nl/duikstekken/lokkersnol",
+  "coverage_pct": 86.8
+ },
+ {
+  "name": "Neeltje Jans",
+  "lat": 51.63541,
+  "lon": 3.7161,
+  "href": "https://www.duikersgids.nl/duikstekken/neeltje-jans-1805",
+  "coverage_pct": 44.1
+ },
+ {
+  "name": "Noordbout",
+  "lat": 51.62083,
+  "lon": 3.94741,
+  "href": "https://www.duikersgids.nl/duikstekken/noordbout",
+  "coverage_pct": 100.0
+ },
+ {
+  "name": "Oesterputten S Gravenhoek",
+  "lat": 51.60614,
+  "lon": 3.79966,
+  "href": "https://www.duikersgids.nl/duikstekken/oesterputten-s-gravenhoek",
+  "coverage_pct": 85.4
+ },
+ {
+  "name": "Oranjeplaat",
+  "lat": 51.51807,
+  "lon": 3.7127,
+  "href": "https://www.duikersgids.nl/duikstekken/oranjeplaat",
+  "coverage_pct": 96.5
+ },
+ {
+  "name": "Oude Kademuur",
+  "lat": 51.62737,
+  "lon": 3.91569,
+  "href": "https://www.duikersgids.nl/duikstekken/oude-kademuur",
+  "coverage_pct": 93.1
+ },
+ {
+  "name": "Pikgat",
+  "lat": 51.66298,
+  "lon": 3.87467,
+  "href": "https://www.duikersgids.nl/duikstekken/pikgat",
+  "coverage_pct": 92.4
+ },
+ {
+  "name": "Plaat Van Oude Tonge",
+  "lat": 51.66925,
+  "lon": 4.12313,
+  "href": "https://www.duikersgids.nl/duikstekken/plaat-van-oude-tonge",
+  "coverage_pct": 100.0
+ },
+ {
+  "name": "Plompe Toren",
+  "lat": 51.6816,
+  "lon": 3.77227,
+  "href": "https://www.duikersgids.nl/duikstekken/plompe-toren",
+  "coverage_pct": 92.6
+ },
+ {
+  "name": "Polredijk",
+  "lat": 51.5654,
+  "lon": 3.63943,
+  "href": "https://www.duikersgids.nl/duikstekken/polredijk",
+  "coverage_pct": 91.9
+ },
+ {
+  "name": "Puttis Place",
+  "lat": 51.54319,
+  "lon": 3.92463,
+  "href": "https://www.duikersgids.nl/duikstekken/puttis-place",
+  "coverage_pct": 99.2
+ },
+ {
+  "name": "Quaak  Driftduik",
+  "lat": 51.60403,
+  "lon": 4.0375,
+  "href": "https://www.duikersgids.nl/duikstekken/quaak-driftduik",
+  "coverage_pct": 97.4
+ },
+ {
+  "name": "Roompot",
+  "lat": 51.61028,
+  "lon": 3.61111,
+  "href": "https://www.duikersgids.nl/duikstekken/roompot",
+  "coverage_pct": 100.0
+ },
+ {
+  "name": "Scharendijke Kabbelaarsrif",
+  "lat": 51.74041,
+  "lon": 3.84405,
+  "href": "https://www.duikersgids.nl/duikstekken/scharendijke-kabbelaarsrif",
+  "coverage_pct": 89.8
+ },
+ {
+  "name": "Scharendijke Starttoren",
+  "lat": 51.74046,
+  "lon": 3.84563,
+  "href": "https://www.duikersgids.nl/duikstekken/scharendijke-starttoren-2269",
+  "coverage_pct": 86.8
+ },
+ {
+  "name": "Schelphoek",
+  "lat": 51.68336,
+  "lon": 3.82298,
+  "href": "https://www.duikersgids.nl/duikstekken/schelphoek",
+  "coverage_pct": 92.0
+ },
+ {
+  "name": "Schelphoek Dam",
+  "lat": 51.68397,
+  "lon": 3.81741,
+  "href": "https://www.duikersgids.nl/duikstekken/schelphoek-dam",
+  "coverage_pct": 97.0
+ },
+ {
+  "name": "Sint Annaland Parking",
+  "lat": 51.61019,
+  "lon": 4.10148,
+  "href": "https://www.duikersgids.nl/duikstekken/sint-annaland-parking",
+  "coverage_pct": 94.9
+ },
+ {
+  "name": "Sint Annaland Strand",
+  "lat": 51.60685,
+  "lon": 4.10454,
+  "href": "https://www.duikersgids.nl/duikstekken/sint-annaland-strand",
+  "coverage_pct": 84.6
+ },
+ {
+  "name": "Slot Lodijke",
+  "lat": 51.50772032685748,
+  "lon": 4.1404311750706,
+  "href": "https://www.duikersgids.nl/duikstekken/slot-lodijke",
+  "coverage_pct": 100.0
+ },
+ {
+  "name": "Sophiahaven",
+  "lat": 51.59517,
+  "lon": 3.71563,
+  "href": "https://www.duikersgids.nl/duikstekken/sophiahaven",
+  "coverage_pct": 84.7
+ },
+ {
+  "name": "Spot Spieringpolder",
+  "lat": 51.5433,
+  "lon": 3.73162,
+  "href": "https://www.duikersgids.nl/duikstekken/spot-spieringpolder",
+  "coverage_pct": 81.8
+ },
+ {
+  "name": "Stalleke",
+  "lat": 51.67948,
+  "lon": 3.83994,
+  "href": "https://www.duikersgids.nl/duikstekken/stalleke",
+  "coverage_pct": 70.1
+ },
+ {
+  "name": "Stavenisse Haven",
+  "lat": 51.59565,
+  "lon": 4.00636,
+  "href": "https://www.duikersgids.nl/duikstekken/stavenisse-haven",
+  "coverage_pct": 96.1
+ },
+ {
+  "name": "Stavenisse Irenehoeve",
+  "lat": 51.60134,
+  "lon": 4.03352,
+  "href": "https://www.duikersgids.nl/duikstekken/stavenisse-irenehoeve",
+  "coverage_pct": 98.0
+ },
+ {
+  "name": "Stavenisse Oostnol",
+  "lat": 51.59857,
+  "lon": 4.01903,
+  "href": "https://www.duikersgids.nl/duikstekken/stavenisse-oostnol",
+  "coverage_pct": 96.1
+ },
+ {
+  "name": "Stavenisse Quaak",
+  "lat": 51.60304,
+  "lon": 4.03741,
+  "href": "https://www.duikersgids.nl/duikstekken/stavenisse-quaak",
+  "coverage_pct": 96.5
+ },
+ {
+  "name": "Stoofpolder Het Licht",
+  "lat": 51.65813,
+  "lon": 4.10492,
+  "href": "https://www.duikersgids.nl/duikstekken/stoofpolder-het-licht",
+  "coverage_pct": 89.8
+ },
+ {
+  "name": "Stormezande",
+  "lat": 51.52729,
+  "lon": 3.97417,
+  "href": "https://www.duikersgids.nl/duikstekken/stormezande",
+  "coverage_pct": 99.6
+ },
+ {
+  "name": "Strijenham",
+  "lat": 51.52145,
+  "lon": 4.14179,
+  "href": "https://www.duikersgids.nl/duikstekken/strijenham",
+  "coverage_pct": 96.7
+ },
+ {
+  "name": "Strijenhaven",
+  "lat": 51.52316,
+  "lon": 4.15372,
+  "href": "https://www.duikersgids.nl/duikstekken/strijenhaven",
+  "coverage_pct": 92.6
+ },
+ {
+  "name": "T19 Steile Wand",
+  "lat": 51.60211,
+  "lon": 4.03138,
+  "href": "https://www.duikersgids.nl/duikstekken/t19-steile-wand",
+  "coverage_pct": 98.5
+ },
+ {
+  "name": "Trailerhelling Grevelingendam",
+  "lat": 51.67664,
+  "lon": 4.10579,
+  "href": "https://www.duikersgids.nl/duikstekken/trailerhelling-grevelingendam",
+  "coverage_pct": 96.6
+ },
+ {
+  "name": "Veenplaten Anna Jacobapolder",
+  "lat": 51.64415,
+  "lon": 4.10335,
+  "href": "https://www.duikersgids.nl/duikstekken/veenplaten-anna-jacobapolder",
+  "coverage_pct": 99.5
+ },
+ {
+  "name": "Veerhaven Zijpe",
+  "lat": 51.65094,
+  "lon": 4.09706,
+  "href": "https://www.duikersgids.nl/duikstekken/veerhaven-zijpe",
+  "coverage_pct": 80.7
+ },
+ {
+  "name": "Veerse Dam",
+  "lat": 51.58635,
+  "lon": 3.63243,
+  "href": "https://www.duikersgids.nl/duikstekken/veerse-dam",
+  "coverage_pct": 96.5
+ },
+ {
+  "name": "Vlietepolder Peilhuisje",
+  "lat": 51.5966,
+  "lon": 3.75277,
+  "href": "https://www.duikersgids.nl/duikstekken/vlietepolder-peilhuisje",
+  "coverage_pct": 96.4
+ },
+ {
+  "name": "Vrouw Holle",
+  "lat": 51.57364,
+  "lon": 3.62899,
+  "href": "https://www.duikersgids.nl/duikstekken/vrouw-holle",
+  "coverage_pct": 85.6
+ },
+ {
+  "name": "Vuilnisbelt Poortvliet",
+  "lat": 51.52713,
+  "lon": 4.09286,
+  "href": "https://www.duikersgids.nl/duikstekken/vuilnisbelt-poortvliet",
+  "coverage_pct": 72.8
+ },
+ {
+  "name": "Wemeldinge-oost Linda",
+  "lat": 51.51985,
+  "lon": 4.00718,
+  "href": "https://www.duikersgids.nl/duikstekken/wemeldinge-oost-linda",
+  "coverage_pct": 80.3
+ },
+ {
+  "name": "West Repart",
+  "lat": 51.74369,
+  "lon": 3.82649,
+  "href": "https://www.duikersgids.nl/duikstekken/west-repart",
+  "coverage_pct": 89.1
+ },
+ {
+  "name": "Westbout",
+  "lat": 51.67033,
+  "lon": 3.73902,
+  "href": "https://www.duikersgids.nl/duikstekken/westbout",
+  "coverage_pct": 99.2
+ },
+ {
+  "name": "Westkapelle",
+  "lat": 51.52412,
+  "lon": 3.43666,
+  "href": "https://www.duikersgids.nl/duikstekken/westkapelle",
+  "coverage_pct": 97.0
+ },
+ {
+  "name": "Willems Reef",
+  "lat": 51.73933,
+  "lon": 3.82809,
+  "href": "https://www.duikersgids.nl/duikstekken/willems-reef",
+  "coverage_pct": 87.4
+ },
+ {
+  "name": "Windgat",
+  "lat": 51.45832,
+  "lon": 4.13889,
+  "href": "https://www.duikersgids.nl/duikstekken/windgat",
+  "coverage_pct": 100.0
+ },
+ {
+  "name": "Wissenkerke Oostnol",
+  "lat": 51.59678,
+  "lon": 3.76091,
+  "href": "https://www.duikersgids.nl/duikstekken/wissenkerke-oostnol",
+  "coverage_pct": 97.7
+ },
+ {
+  "name": "Wissenkerke Westnol",
+  "lat": 51.59642,
+  "lon": 3.74936,
+  "href": "https://www.duikersgids.nl/duikstekken/wissenkerke-westnol",
+  "coverage_pct": 88.0
+ },
+ {
+  "name": "Wolphaartsdijk",
+  "lat": 51.54613,
+  "lon": 3.80861,
+  "href": "https://www.duikersgids.nl/duikstekken/wolphaartsdijk",
+  "coverage_pct": 92.3
+ },
+ {
+  "name": "Wolphaartsdijk (oude Locatie)",
+  "lat": 51.54704,
+  "lon": 3.81115,
+  "href": "https://www.duikersgids.nl/duikstekken/wolphaartsdijk-oude-locatie",
+  "coverage_pct": 94.2
+ },
+ {
+  "name": "Wrak De Ketel",
+  "lat": 51.51763,
+  "lon": 4.02532,
+  "href": "https://www.duikersgids.nl/duikstekken/wrak-de-ketel",
+  "coverage_pct": 100.0
+ },
+ {
+  "name": "Wrak Den Boer",
+  "lat": 51.52758,
+  "lon": 4.0813,
+  "href": "https://www.duikersgids.nl/duikstekken/wrak-den-boer",
+  "coverage_pct": 99.0
+ },
+ {
+  "name": "Zeelandbrug",
+  "lat": 51.62923,
+  "lon": 3.91321,
+  "href": "https://www.duikersgids.nl/duikstekken/zeelandbrug",
+  "coverage_pct": 89.4
+ },
+ {
+  "name": "Zeelandbrug Pijler 2",
+  "lat": 51.62828,
+  "lon": 3.91282,
+  "href": "https://www.duikersgids.nl/duikstekken/zeelandbrug-pijler-2",
+  "coverage_pct": 95.6
+ },
+ {
+  "name": "Zilveren Schor",
+  "lat": 51.52636,
+  "lon": 3.68578,
+  "href": "https://www.duikersgids.nl/duikstekken/zilveren-schor",
+  "coverage_pct": 90.0
+ },
+ {
+  "name": "Zoetersbout",
+  "lat": 51.64418,
+  "lon": 4.08993,
+  "href": "https://www.duikersgids.nl/duikstekken/zoetersbout",
+  "coverage_pct": 91.5
+ },
+ {
+  "name": "Zonneschijn Zuiveringsinstallatie",
+  "lat": 51.63007,
+  "lon": 4.06689,
+  "href": "https://www.duikersgids.nl/duikstekken/zonneschijn-zuiveringsinstallatie",
+  "coverage_pct": 98.4
+ },
+ {
+  "name": "Zoutelande",
+  "lat": 51.49898,
+  "lon": 3.48109,
+  "href": "https://www.duikersgids.nl/duikstekken/zoutelande",
+  "coverage_pct": 92.3
+ },
+ {
+  "name": "Zuidbout",
+  "lat": 51.61431,
+  "lon": 3.95972,
+  "href": "https://www.duikersgids.nl/duikstekken/zuidbout",
+  "coverage_pct": 100.0
+ }
+]
